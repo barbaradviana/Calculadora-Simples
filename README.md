@@ -13,12 +13,10 @@ O projeto é uma calculadora simples desenvolvida usando HTML, CSS e JavaScript.
 
 1. **Clone o Repositório:**
    ```bash
-   git clone https://seu-repositorio/calculadora.git
-
+   git clone git@github.com:barbaradviana/Calculadora-Simples.git
 2. **Abra o Projeto:**
    ```bash
    cd calculadora
-
 3. **Abra o Arquivo HTML:**
    ```bash
    open index.html
